@@ -15,6 +15,7 @@
     "url": "git@github.com:nightwatchjs/nightwatch.git"
   },
   "dependencies": {
+    "browserstack-local": "^1.4.2",
     "chai-nightwatch": "~0.1.x",
     "ejs": "2.5.7",
     "lodash.clone": "3.0.3",
@@ -24,8 +25,7 @@
     "mocha-nightwatch": "3.2.2",
     "optimist": "0.6.1",
     "proxy-agent": "2.0.0",
-    "q": "1.4.1",
-    "browserstack-local": "^1.3.3"
+    "q": "1.4.1"
   },
   "devDependencies": {
     "chai": "^3.2.0",
